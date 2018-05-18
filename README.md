@@ -5,7 +5,7 @@
 #### 算法：
 - [二分查找](https://github.com/chenyang929/grokking_algorithms/blob/master/01%20%E7%AE%97%E6%B3%95%E7%AE%80%E4%BB%8B/01_binary_search.py)
 #### 总结：
-+ 二分查找的速度比简单查找快得多,其运行时间是O(log n)
++ 二分查找的速度比简单查找快得多,适用于已经排好序的，其运行时间是O(log n)
 + O(log n)比O(n)快，需要搜索的元素越多，前者比后者就快的越多
 + 算法运行时间并不是以秒为单位
 + 算法运行时间是从其增速的角度衡量的
